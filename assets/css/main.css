@@ -2633,16 +2633,16 @@ input, select, textarea {
 					display: none;
 				}
 
-				#titleBar .toggle {
+				/* #titleBar .toggle {
 					text-decoration: none;
 					position: absolute;
 					top: 0;
 					left: 0;
 					width: 60px;
 					height: 44px;
-				}
+				} */
 
-					#titleBar .toggle:before {
+					/* #titleBar .toggle:before {
 						-moz-osx-font-smoothing: grayscale;
 						-webkit-font-smoothing: antialiased;
 						display: inline-block;
@@ -2678,7 +2678,7 @@ input, select, textarea {
 
 					#titleBar .toggle:active:before {
 						background-color: rgba(92, 95, 103, 0.75);
-					}
+					} */
 
 			#navPanel {
 				-moz-backface-visibility: hidden;
