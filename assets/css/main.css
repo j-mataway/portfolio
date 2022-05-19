@@ -1609,7 +1609,7 @@ input, select, textarea {
 
 		.image img {
 			display: block;
-			width: 100%;
+			width: 90%;
 		}
 
 		.image.fit {
@@ -2055,6 +2055,15 @@ input, select, textarea {
 			.wrapper.style3 .title {
 				background: #f3f3f3 url("images/overlay.png");
 				color: #484d55;
+			}
+			.thumbnail:hover {
+				position:relative;
+				top:-25px;
+				left:-35px;
+				width:100%;
+				height:auto;
+				display:block;
+				z-index:999;
 			}
 
 			/* .wrapper.style3 .image {
