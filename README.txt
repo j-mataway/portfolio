@@ -1,34 +1,31 @@
-Escape Velocity by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# My Portfolio <a href="https://j-mataway.github.io/portfolio/" target="_blank">View Here</a>
+My portfolio website. It will be updated frequently when projects are completed!
 
 
-A new responsive template featuring a flat (but not too flat) minimalistic design, spacious
-layout, and styling for all basic page elements. Its demo images* are courtesy of the supremely
-talented photographer Felicia Simion. If you like photography or just enjoy being blown away by
-awesome stuff, check out her portfolio for more stunning images:
+<a href="https://j-mataway.github.io/portfolio/" target="_blank"><img src="https://github.com/j-mataway/j-mataway/portfolio/images/portfolio.gif" /></a>
 
-http://ineedchemicalx.deviantart.com/
+## How It's Made:
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
+**Tech used:** HTML, CSS, JavaScript, Framework of choice
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
 
-AJ
-aj@lkn.io | @ajlkn
+## Optimizations
+*(optional)*
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+
+## Lessons Learned:
+
+No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+
+## Examples:
+Take a look at these couple examples that I have in my own portfolio:
+
+**Palettable:** https://github.com/alecortega/palettable
+
+**Twitter Battle:** https://github.com/alecortega/twitter-battle
+
+**Patch Panel:** https://github.com/alecortega/patch-panel
 
 
-Credits:
-
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
