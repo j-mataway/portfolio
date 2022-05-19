@@ -2,7 +2,7 @@
 My portfolio website. It will be updated frequently when projects are completed!
 
 
-![]("https://github.com/j-mataway/portfolio/blob/main/images/portfolio.gif")
+![](https://github.com/j-mataway/portfolio/blob/main/images/portfolio.gif)
 
 ## How It's Made:
 
