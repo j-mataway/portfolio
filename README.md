@@ -1,31 +1,43 @@
 # My Portfolio <a href="https://j-mataway.github.io/portfolio/" target="_blank">View Here</a>
-My portfolio website. It will be updated frequently when projects are completed!
+My portfolio website with contact information and links to projects. It will be updated frequently when projects are completed!
 
 
-![]<a href="https://j-mataway.github.io/portfolio/" target="_blank"><img src="https://github.com/j-mataway/portfolio/blob/main/images/portfolio.gif"/></a>
+<a href="https://j-mataway.github.io/portfolio/" target="_blank"><img src="https://github.com/j-mataway/portfolio/blob/main/images/portfolio.gif"/></a>
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+Focused on keeping the site simple and clean.  Easy UI and a smooth UX.
 
 ## Optimizations
-*(optional)*
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
-
+As I optimize this site I will be adding gifs to the projects section and create a second page which will be more focused on potential employers rather than freelance clients. 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+Seperation of Concerns. Realized how much easier it is to add css animations than to add custom javascript to change hover interactions
 
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
 
-**Palettable:** https://github.com/alecortega/palettable
+## Other Projects:
 
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
 
-**Patch Panel:** https://github.com/alecortega/patch-panel
-
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%"  style="align:center;" valign="top">
+<a target="_blank" href="https://j-mataway.github.io/strikers/">Striker's Bowling Alley</a>
+        <br />
+      <a target="_blank" href="https://j-mataway.github.io/strikers/">
+            <img src="https://github.com/j-mataway/strikers/blob/main/images/strikers.gif" width="100%"  alt="Striker's"/>
+        </a>
+    </td>
+    <td width="50%" valign="top">
+<a target="_blank" href="https://melraemakers.com/">MelRae Makers Blog</a>
+      <br />
+        <a target="_blank" href="https://melraemakers.com/">
+          <img src="https://github.com/j-mataway/melraeblog/blob/main/MelRaeDesign/images/melraedesign.gif" width="100%" alt="MelRae Makers Blog"/>
+        </a>
+    </td>
+  </tr>
+</table>
 
