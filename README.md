@@ -2,7 +2,7 @@
 My portfolio website with contact information and links to projects. It will be updated frequently when projects are completed!
 
 
-<a href="https://j-mataway.github.io/portfolio/" target="_blank"><img align="center" src="https://github.com/j-mataway/portfolio/blob/main/images/portfolio.gif"/></a>
+<p align="center"><a href="https://j-mataway.github.io/portfolio/" target="_blank"><img src="https://github.com/j-mataway/portfolio/blob/main/images/portfolio.gif"/></a></p>
 
 ## How It's Made:
 
