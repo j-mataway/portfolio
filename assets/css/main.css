@@ -2056,15 +2056,7 @@ input, select, textarea {
 				background: #f3f3f3 url("images/overlay.png");
 				color: #484d55;
 			}
-			.thumbnail:hover {
-				position:relative;
-				top:-25px;
-				left:-35px;
-				width:100%;
-				height:auto;
-				display:block;
-				z-index:999;
-			}
+
 
 			/* .wrapper.style3 .image {
 				border: solid 10px #fff;
@@ -2603,7 +2595,18 @@ input, select, textarea {
 				}
 
 		}
-
+		@media screen and (min-width: 737px) {
+			.thumbnail:hover {
+				position:relative;
+				top:-25px;
+				left:-35px;
+				width:100%;
+				height:auto;
+				display:block;
+				z-index:999;
+			}
+			
+		}
 	@media screen and (max-width: 980px) {
 
 		/* Nav */
