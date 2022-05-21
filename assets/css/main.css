@@ -1631,18 +1631,10 @@ input, select, textarea {
 				margin: 0 auto;
 				width: auto;
 			}
+.featured{
+	display: block;
+}
 
-		.image.featured {
-			display: block;
-			width: 100%;
-			margin: 0 0 2em 0;
-			height: 400px;
-		}
-		.highlight img{
-			border: 5px solid black;
-			border-radius: 5px;
-			box-shadow: 10px 10px;
-		}
 
 /* Button */
 
@@ -2595,18 +2587,102 @@ input, select, textarea {
 				}
 
 		}
-		@media screen and (min-width: 737px) {
-			.thumbnail:hover {
+	
+
+	@media screen and (max-width: 980px) {
+		.feat1{
+			background-image: url(images/strikers.gif);
+		}
+		.feat2{
+			background-image: url(images/melraedesign.gif);
+		}
+			.feature{
+				border: 5px solid black;
+				border-radius: 5px;
+				box-shadow: 10px 10px;
+				display: block;
+				background-size: contain;
+				background-repeat: no-repeat;
+				width: 95%;
+				height: 0;
+				padding-top: 52.5%;	
+				margin-bottom: 30px;
+			}
+			/* .feature:hover {				
 				position:relative;
 				top:-25px;
-				left:-35px;
 				width:100%;
 				height:auto;
 				display:block;
 				z-index:999;
+				padding-top: 50%;
+				margin-bottom: 0;
+			}	 */
+		}
+		@media screen and (min-width: 981px){
+			.feat1{
+				background-image: url(images/strikers.jpg);
 			}
+			.feat1:hover{
+				background-image:url(images/strikers.gif) ;
+			}
+			.feat2{
+				background-image: url(images/melrae.png);
+			}
+			.feat2:hover{
+				background-image:url(images/melraedesign.gif) ;
+			}
+			.feature{
+				border: 5px solid black;
+				border-radius: 5px;
+				box-shadow: 10px 10px;
+				display: block;
+				background-size: contain;
+				background-repeat: no-repeat;
+				width: 95%;
+				height: 0;
+				padding-top: 52.5%;	
+				margin-bottom: 30px;
+			}
+			.feature:hover {				
+				position:relative;
+				top:-25px;
+				width:100%;
+				height:auto;
+				display:block;
+				z-index:999;
+				padding-top: 55%;
+				margin-bottom: 0;
 			
 		}
+	}
+		@media screen and (min-width: 1679px){
+			.feature{
+				border: 5px solid black;
+				border-radius: 5px;
+				box-shadow: 10px 10px;
+				display: block;
+				background-size: contain;
+				background-repeat: no-repeat;
+				width: 95%;
+				height: 0;
+				padding-top: 52.5%;	
+				margin-bottom: 30px;
+			}
+			.feature:hover {				
+				position:relative;
+				top:-25px;
+				width:100%;
+				height:auto;
+				display:block;
+				z-index:999;
+				padding-top: 55%;
+				margin-bottom: 0;
+			
+		}
+	}
+
+		
 	@media screen and (max-width: 980px) {
 
 		/* Nav */
@@ -3061,3 +3137,4 @@ input, select, textarea {
 	text-decoration: none;
 }
 
+		

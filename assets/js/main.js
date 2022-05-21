@@ -66,29 +66,5 @@
 				
 
 })(jQuery);
-$(document).ready(function()
-{
-    $("#strikers").hover(
-        function()
-        {
-            $(this).attr("src", "images/strikers.gif");
-        },
-        function()
-        {
-            $(this).attr("src", "images/strikers.jpg");
-        }                         
-    );                  
-});
-$(document).ready(function()
-{
-    $("#melrae").hover(
-        function()
-        {
-            $(this).attr("src", "images/melraedesign.gif");
-        },
-        function()
-        {
-            $(this).attr("src", "images/melrae.png");
-        }                         
-    );                  
-});
+
+
