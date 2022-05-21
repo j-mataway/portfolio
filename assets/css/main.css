@@ -2608,20 +2608,10 @@ input, select, textarea {
 				background-repeat: no-repeat;
 				width: 95%;
 				height: 0;
-				padding-top: 52.5%;	
+				padding-top: 51.65%;	
 				margin-bottom: 30px;
-			}
-			/* .feature:hover {				
-				position:relative;
-				top:-25px;
-				width:100%;
-				height:auto;
-				display:block;
-				z-index:999;
-				padding-top: 50%;
-				margin-bottom: 0;
-			}	 */
-		}
+			}	 
+	}
 		@media screen and (min-width: 981px){
 			.feat1{
 				background-image: url(images/strikers.jpg);
@@ -2635,31 +2625,6 @@ input, select, textarea {
 			.feat2:hover{
 				background-image:url(images/melraedesign.gif) ;
 			}
-			.feature{
-				border: 5px solid black;
-				border-radius: 5px;
-				box-shadow: 10px 10px;
-				display: block;
-				background-size: contain;
-				background-repeat: no-repeat;
-				width: 95%;
-				height: 0;
-				padding-top: 52.5%;	
-				margin-bottom: 30px;
-			}
-			.feature:hover {				
-				position:relative;
-				top:-25px;
-				width:100%;
-				height:auto;
-				display:block;
-				z-index:999;
-				padding-top: 55%;
-				margin-bottom: 0;
-			
-		}
-	}
-		@media screen and (min-width: 1679px){
 			.feature{
 				border: 5px solid black;
 				border-radius: 5px;
