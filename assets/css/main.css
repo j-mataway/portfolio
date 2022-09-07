@@ -2599,6 +2599,9 @@ input, select, textarea {
 		.feat2{
 			background-image: url(images/melraedesign.gif);
 		}
+		.feat3{
+			background-image: url(images/sith.png);
+		}
 			.feature{
 				border: 5px solid black;
 				border-radius: 5px;
@@ -2624,6 +2627,12 @@ input, select, textarea {
 			}
 			.feat2:hover{
 				background-image:url(images/melraedesign.gif) ;
+			}
+			.feat3{
+				background-image: url(images/sith.png);
+			}
+			.feat3:hover{
+				background-image:url(images/sith.png) ;
 			}
 			.feature{
 				border: 5px solid black;
