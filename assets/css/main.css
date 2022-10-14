@@ -2600,6 +2600,9 @@ input, select, textarea {
 		.feat3{
 			background-image: url(images/sith.png);
 		}
+		.feat4{
+			background-image: url(images/myscheduless.png);
+		}
 			.feature{
 				border: 5px solid black;
 				border-radius: 5px;
@@ -2631,6 +2634,12 @@ input, select, textarea {
 			}
 			.feat3:hover{
 				background-image:url(images/sith.png) ;
+			}
+			.feat4{
+				background-image: url(images/myscheduless.png);
+			}
+			.feat4:hover{
+				background-image:url(images/myscheduless.png) ;
 			}
 			.feature{
 				border: 5px solid black;
